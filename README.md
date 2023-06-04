@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my work experience on [LinkedIn](https://www.linkedin.com/in/pius-owolabi-802058b/)
 
-- 💬 Ask me about **Any topic in C-programming, C#, asp.net, Shell Scripting, SQL Server, Javascript, Python, Pentesting, Bootstrap, jQuery, Linux, etc.**
+- 💬 Ask me about **Any topic in C#, asp.net, Shell Scripting, SQL Server, Javascript, Python, Pentesting, Bootstrap, jQuery, Linux, etc.**
 
 - 📫 How to reach me **opius2007@gmail.com**
 
