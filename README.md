@@ -1,5 +1,5 @@
 ## 	<h1 align="center">OWOLABI PIUS</h1>
-#### I'm a self-motivated developer proficient in C#, C-Programming, Bash Scripting, Python, Javascript and I contribute to OSS. With a mission-driven attitude. I strongly believe that technology, when harnessed correctly, has the power to benefit both people and the planet. Let's Connect & Collaborate!
+#### I'm a self-motivated developer proficient in C#, C-Programming, Cybersecurity, Bash Scripting, Python, Javascript and I contribute to OSS. With a mission-driven attitude. I strongly believe that technology, when harnessed correctly, has the power to benefit both people and the planet. Let's Connect & Collaborate!
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opius2017&label=Profile%20views&color=0e75b6&style=flat" alt="Pius" /> </p>
